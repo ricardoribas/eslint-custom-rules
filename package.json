@@ -1,0 +1,23 @@
+{
+  "name": "eslint-custom-rule",
+  "version": "1.0.0",
+  "description": "Custom Rule from ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoribas/eslint-custom-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "rule"
+  ],
+  "author": "Ricardo Ribas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoribas/eslint-custom-rules/issues"
+  },
+  "homepage": "https://github.com/ricardoribas/eslint-custom-rules#readme"
+}
