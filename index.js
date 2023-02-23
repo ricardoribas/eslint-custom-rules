@@ -1,5 +1,6 @@
 module.exports = {
     rules: {
-        'stop-hammer-time': require('./src/rules/hammer'),
+        'mc-hammer-comments': require('./src/rules/Comments'),
+        'mc-hammer-function-declaration': require('./src/rules/FunctionDeclaration')
     }
 };

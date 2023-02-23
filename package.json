@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": "true",
-  "description": "Custom Rule from ESLint",
+  "description": "MC Hammer ESLint Rules",
   "scripts": {
     "test": "jest"
   },
@@ -25,6 +25,7 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-typescript": "^7.18.6",
     "@types/eslint": "^8.21.0",
+    "@types/string-similarity": "^4.0.0",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "@typescript-eslint/utils": "^5.51.0",
@@ -36,5 +37,6 @@
   },
   "peerDependencies": {
     "eslint": "^8.34.0"
-  }
+  },
+  "dependencies": {}
 }

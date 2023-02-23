@@ -12,6 +12,7 @@ module.exports = {
 	},
     root: true,
     rules: {
-        'stop-hammer-time': 'error'
+        'mc-hammer-comments': 'error',
+		'mc-hammer-function-declaration': 'error'
     },
 };
